@@ -83,7 +83,7 @@ def main():
         return
     
     # Find all videos organized by object
-    objects = ['hammer', 'screwdriver', 'wrench']
+    objects = ['hammer', 'Bottle', 'mallet']
     videos_found = {}
     
     for obj in objects:
