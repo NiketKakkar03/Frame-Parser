@@ -1,0 +1,8 @@
+# How to use and record video data through realsense camera
+1. Disconnect the realsense camera from the rover using using a tool that is in QSET room
+2. Connect to your laptop (with the C type cable it is connected to the mini pc with in the rover)
+3. Run main.py to check if you can see the camera output on your screen
+4. Change the name of the output file in save.py (should be named as color.mp4 or color1.mp4), just incrememnt the number
+5. Position the object in front of the realsense camera with your laptop and run save.py script
+
+## Check the videos that are in the repo to see how you should record and move around.
