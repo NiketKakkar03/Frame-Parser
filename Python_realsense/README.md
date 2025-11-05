@@ -30,13 +30,4 @@ Before recording, update the output filename in `save.py`:
 ### 5. Position and Record
 - Position the target object in front of the RealSense camera
 - Ensure proper lighting and distance
-- Run the recording script:
-
-
-## Reference Videos
-Check the existing videos in the repository to see proper recording techniques and camera movement patterns.
-
----
-
-**Note:** Ensure the camera is securely mounted and the object remains in frame throughout the recording session.
-
+- Run the recording script
